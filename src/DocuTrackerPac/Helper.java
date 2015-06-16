@@ -28,10 +28,6 @@ public static void loginapp(String user,String pass,String url) throws Interrupt
 	}
 
 
-	public static void searchagreement() {
-		System.out.println("searchagreement");
-	}
-
 
 ///ISDAcopytemplate
 	public static void ISDAcopytemplate() throws InterruptedException {
